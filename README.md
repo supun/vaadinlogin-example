@@ -8,8 +8,8 @@ Install maven
 
 Create the WAR file
 
-- #cd vaadinlogin-example
-- mvn clean package
+- $cd vaadinlogin-example
+- $mvn clean package
 
 Test the application
 
